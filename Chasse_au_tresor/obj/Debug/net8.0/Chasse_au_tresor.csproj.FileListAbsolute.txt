@@ -1,0 +1,14 @@
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\bin\Debug\net8.0\Chasse_au_tresor.exe
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\bin\Debug\net8.0\Chasse_au_tresor.deps.json
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\bin\Debug\net8.0\Chasse_au_tresor.runtimeconfig.json
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\bin\Debug\net8.0\Chasse_au_tresor.dll
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\bin\Debug\net8.0\Chasse_au_tresor.pdb
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\obj\Debug\net8.0\Chasse_au_tresor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\obj\Debug\net8.0\Chasse_au_tresor.AssemblyInfoInputs.cache
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\obj\Debug\net8.0\Chasse_au_tresor.AssemblyInfo.cs
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\obj\Debug\net8.0\Chasse_au_tresor.csproj.CoreCompileInputs.cache
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\obj\Debug\net8.0\Chasse_au_tresor.dll
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\obj\Debug\net8.0\refint\Chasse_au_tresor.dll
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\obj\Debug\net8.0\Chasse_au_tresor.pdb
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\obj\Debug\net8.0\Chasse_au_tresor.genruntimeconfig.cache
+C:\Users\Volahanitra\source\repos\Chasse_au_tresor\Chasse_au_tresor\obj\Debug\net8.0\ref\Chasse_au_tresor.dll
